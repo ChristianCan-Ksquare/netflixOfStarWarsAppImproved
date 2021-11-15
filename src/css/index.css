@@ -1,0 +1,18 @@
+.buttonSubmit {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  width: 200px;
+  height: 36px;
+  border-radius: 12px;
+  background-color: #1c89ff;
+  border: solid 1px transparent;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+  transition: all 0.1s ease-in-out;
+}
+
+.buttonSubmit:hover {
+  background-color: #0050a5;
+  border-color: #fff;
+  transition: all 0.1s ease-in-out;
+}
